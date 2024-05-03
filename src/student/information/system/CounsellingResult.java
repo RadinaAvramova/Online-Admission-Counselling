@@ -14,10 +14,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.imageio.ImageIO;
 
-/**
- *
- * @author HP
- */
+
 public class CounsellingResult extends javax.swing.JFrame {
 
     /**
