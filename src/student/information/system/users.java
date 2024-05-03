@@ -5,10 +5,6 @@
  */
 package student.information.system;
 
-/**
- *
- * @author Hyrex
- */
 import java.awt.*;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
