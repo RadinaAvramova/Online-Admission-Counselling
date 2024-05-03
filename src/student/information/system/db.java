@@ -5,10 +5,6 @@
  */
 package student.information.system;
 
-/**
- *
- * @author Hyrex
- */
 import java.sql.*;
 import javax.swing.*;
 public class db {
