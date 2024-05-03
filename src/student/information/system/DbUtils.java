@@ -5,10 +5,7 @@
  */
 package student.information.system;
 
-/**
- *
- * @author Hyrex
- */
+
 class DbUtils {
     
 }
