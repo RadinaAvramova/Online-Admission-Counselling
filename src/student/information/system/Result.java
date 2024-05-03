@@ -5,10 +5,7 @@
  */
 package student.information.system;
 
-/**
- *
- * @author pawan saxena
- */
+
 public class Result extends javax.swing.JFrame {
 
     /**
