@@ -31,10 +31,7 @@ import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Hyrex
- */
+
 public class Login extends javax.swing.JFrame {
 public static Writer newWriter,SortWriter;
 
