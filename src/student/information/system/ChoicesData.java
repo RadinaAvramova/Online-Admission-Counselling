@@ -11,10 +11,7 @@ import java.io.IOException;
 import java.io.Writer;
 import static student.information.system.StudentData.newWriter;
 
-/**
- *
- * @author pawan saxena
- */
+
     public class ChoicesData {
     public static Writer ChoicesWriter,SortWriter;
 
