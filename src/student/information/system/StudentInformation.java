@@ -6,10 +6,7 @@
 
 package student.information.system;
 
-/**
- *
- * @author Hyrex
- */
+
 import net.proteanit.sql.DbUtils;
 import java.awt.*;
 import java.awt.image.BufferedImage;
