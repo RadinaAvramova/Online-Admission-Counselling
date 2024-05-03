@@ -5,10 +5,7 @@
  */
 package student.information.system;
 
-/**
- *
- * @author AliHyrex
- */
+
 public class Emp {
     public static int empId;
    
