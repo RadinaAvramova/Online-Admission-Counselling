@@ -16,10 +16,6 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Hyrex
- */
 public class MainMenu extends javax.swing.JFrame {
 Connection conn=null;
 ResultSet rs=null;
