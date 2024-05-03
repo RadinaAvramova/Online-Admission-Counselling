@@ -5,10 +5,6 @@
  */
 package student.information.system;
 
-/**
- *
- * @author Hyrex
- */
 public class StudentInformationSystem {
 
     /**
